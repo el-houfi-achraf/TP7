@@ -9,7 +9,7 @@
 
 Application Spring Boot qui expose une API RESTful utilisant **JAX-RS (Jersey)** pour la gestion de comptes bancaires. L'API supporte les formats **JSON** et **XML** pour une interopérabilité maximale.
 
-![Démonstration](./assets/demo.gif)
+![Démonstration](jaxrs/assets/demo.gif)
 
 ## 🎯 Objectifs du Projet
 
